@@ -1,0 +1,5 @@
+D:\WORK\Novastar\CodedUITestProjectCalc\CodedUITestProjectCalc\bin\Debug\CodedUITestProjectCalc.dll
+D:\WORK\Novastar\CodedUITestProjectCalc\CodedUITestProjectCalc\bin\Debug\CodedUITestProjectCalc.pdb
+D:\WORK\Novastar\CodedUITestProjectCalc\CodedUITestProjectCalc\obj\Debug\CodedUITestProjectCalc.csprojResolveAssemblyReference.cache
+D:\WORK\Novastar\CodedUITestProjectCalc\CodedUITestProjectCalc\obj\Debug\CodedUITestProjectCalc.dll
+D:\WORK\Novastar\CodedUITestProjectCalc\CodedUITestProjectCalc\obj\Debug\CodedUITestProjectCalc.pdb
